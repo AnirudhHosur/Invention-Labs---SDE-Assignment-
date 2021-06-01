@@ -8,6 +8,7 @@ DEPENEDENCIES -->
 2) Rest Template
 3) Lombok 
 4) Swagger UI for API demonstrations  
+5) Spring data MongoDB
 
 Reason for MongoDB (noSQL style database) --> 
 The entities were independent of eachother. No one-to-one/many-to-one relationships between doctor and patient. 
